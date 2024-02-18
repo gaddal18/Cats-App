@@ -1,7 +1,7 @@
 # cat_app
 
 A new Flutter project.
-The min file inside lib folder (main.dart)
+The main file inside lib folder (main.dart)
 
 ## Getting Started
 
