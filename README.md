@@ -1,7 +1,7 @@
 # cat_app
 
 A new Flutter project.
-The main file inside lib folder (main.dart)
+You can find the main app file inside the lib folder.
 
 ## Getting Started
 
